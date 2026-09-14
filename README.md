@@ -10,7 +10,7 @@ A luxury, dark-and-gold themed personal developer portfolio. Built with
 plain HTML/CSS/JS on the frontend and a Spring Boot service for the
 contact form backend.
 
-**Live site:** _add your deployed URL here once it's live_
+**Live site:** https://my-portfolio-iota-hazel-s9x7gbjarv.vercel.app/
 
 <!-- Optional: add a screenshot once your images/content are final
 ![Portfolio screenshot](assets/images/screenshot.png)
